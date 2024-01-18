@@ -17,7 +17,7 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        ;
+        
         string directoryPath = "C:\\Users\\volfe\\Desktop\\andry";
         string[] files = Directory.GetFiles(directoryPath, "*.csv");
 
